@@ -1,6 +1,5 @@
 # Pizza-Sales-Data-Analysis
-Tools used : Microsoft Excel (Pivot Tables and Pivot Charts) 
-             Microsoft SQL Server
+Tools used : Microsoft Excel (Pivot Tables and Pivot Charts) ,  Microsoft SQL Server
              
 # Problem Statement for Dashboard:
 As a data analyst, I have been tasked with creating a comprehensive pizza sales dashboard to provide actionable insights and improve decision-making for a pizza company. The company's management recognizes the need to leverage data-driven strategies to optimize sales performance and enhance customer satisfaction. The goal is to develop a user-friendly and visually appealing pizza sales dashboard .By leveraging data visualization techniques, the dashboard will enable stakeholders to track sales performance, identify popular pizza flavours and toppings, analyse customer preferences and identify opportunities for growth and improvement.
